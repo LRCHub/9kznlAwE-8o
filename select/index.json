@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Mockingbird",
+  "base_artist": "Eminem",
+  "createdAt": "2026-03-01T00:13:04.618029Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mockingbird",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/01_Mockingbird_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mockingbird",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/02_Mockingbird_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mockingbird",
+      "artist": "Barclay James Harvest",
+      "has_synced": true,
+      "path": "select/03_Mockingbird_Barclay_James_Harvest.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "One For The Mockingbird",
+      "artist": "Cutting Crew",
+      "has_synced": true,
+      "path": "select/04_One_For_The_Mockingbird_Cutting_Crew.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mockingbird Song",
+      "artist": "Katie Melua",
+      "has_synced": false,
+      "path": "select/05_Mockingbird_Song_Katie_Melua.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mockingbird Song - Live In Berlin",
+      "artist": "Katie Melua",
+      "has_synced": false,
+      "path": "select/06_Mockingbird_Song_-_Live_In_Berlin_Katie_Melua.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mockingbird",
+      "artist": "Dusty Springfield",
+      "has_synced": false,
+      "path": "select/07_Mockingbird_Dusty_Springfield.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mockingbird",
+      "artist": "Rea Garvey",
+      "has_synced": false,
+      "path": "select/08_Mockingbird_Rea_Garvey.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "To Kill a Mockingbird",
+      "artist": "$uicideBoy$ feat. Na$Ty Matt",
+      "has_synced": true,
+      "path": "select/09_To_Kill_a_Mockingbird_$uicideBoy$_feat._Na$Ty_Matt.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "To Kill a Mockingbird (Feat. Na$ty Matt)",
+      "artist": "$uicideboy$",
+      "has_synced": true,
+      "path": "select/10_To_Kill_a_Mockingbird_(Feat._Na$ty_Matt)_$uicideboy$.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mockingbird",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/11_Mockingbird_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mockingbird",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/12_Mockingbird_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mockingbird",
+      "artist": "Inez & Charlie Foxx",
+      "has_synced": false,
+      "path": "select/13_Mockingbird_Inez_&_Charlie_Foxx.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mockingbird",
+      "artist": "Carly Simon & James Taylor",
+      "has_synced": true,
+      "path": "select/14_Mockingbird_Carly_Simon_&_James_Taylor.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Mockingbird (feat. James Taylor)",
+      "artist": "Carly Simon",
+      "has_synced": false,
+      "path": "select/15_Mockingbird_(feat._James_Taylor)_Carly_Simon.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Mockingbird",
+      "artist": "Rob Thomas",
+      "has_synced": true,
+      "path": "select/16_Mockingbird_Rob_Thomas.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mockingbird",
+      "artist": "Eminem",
+      "has_synced": false,
+      "path": "select/pl_01_Mockingbird_Eminem.txt"
+    }
+  ]
+}
